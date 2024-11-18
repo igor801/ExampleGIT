@@ -13,3 +13,5 @@ git branch -M main
 git push -u origin main
 
 Adit this file in origin repo
+
+nen git clone
