@@ -1,3 +1,9 @@
-new text in branch ckala
+echo "# ExampleGIT" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/igor801/ExampleGIT.git
+git push -u origin main
 
 666666666666666666666666666666666
